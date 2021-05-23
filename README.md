@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hello 👋 fellow devs
 
-<!--
-**ManojMM026/ManojMM026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is Manoj, 📱 Native Android, 🎯 Flutter developer and also 💙 admirer of the UI/UX
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Android](https://developer.android.com)
+- [Kotlin](https://kotlinlang.org)
+- [Flutter](http://flutter.dev/)
+- 🎯[Dart](https://dart.dev)
+
+### 🛠️ Skills
+
+- Material Design, Beacons, IoT, Java, Firebase,Google Maps, Direction API, RX Android, RX Dart, NFC, JNI, Rest API, FCM Push, sokcet.io, NoSQL, Notification, Localization, Android Jetpack, Deep linking, Retrofit, Git, Git Flow.
+
+### 🤝 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/manojmm026/)
+- [✉️ Email](manojmm026@gmail.com)
+
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manojmm026)](https://github.com/ManojMM026)
+
+### Stats
+
+[![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojmm026)](https://github.com/ManojMM026)
