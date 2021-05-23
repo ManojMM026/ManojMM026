@@ -1,6 +1,8 @@
-### Hello 👋 fellow devs
+### Hello 👋 fellow Developers
 
 ## This is Manoj, 📱 Native Android, 🎯 Flutter developer and also 💙 admirer of the UI/UX
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Manojmm026&label=Profile%20views&color=0e75b6&style=flat" alt="Manojmm026" /> </p>
 
 ### 💻 Tech Stack
 
